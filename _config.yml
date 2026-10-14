@@ -54,7 +54,7 @@ plugins:
 author:
   name: "Timur Akishev"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Corpus linguist, professor"
+  bio: "Corpus linguist"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
