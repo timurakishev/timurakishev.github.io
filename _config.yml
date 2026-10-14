@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Timur Akishev, Ph.D."
 name: "Timur Akishev"
+copyright: "Timur Akishev"
 email: "t.akishev@kimep.kz"
 url: "https://timurakishev.github.io"
 baseurl: ""
