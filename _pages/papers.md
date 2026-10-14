@@ -19,6 +19,6 @@ My published papers and ongoing research projects.
 
 ### [ongoing projects]
 
-1. **Emerging constructions in contemporary online English: A corpus-based study of *It's Giving X*, *X-Coded*, and *X Era***
+1. Emerging constructions in contemporary online English: A corpus-based study of *It's Giving X*, *X-Coded*, and *X Era*
 
-2. **Beyond frequency: Using collocation analysis to study gender inequality policy discourse**
+2. Beyond frequency: Using collocation analysis to study gender inequality policy discourse
