@@ -1,0 +1,5 @@
+en: &DEFAULT_EN
+  follow_label: "Profiles"
+
+en-US:
+  <<: *DEFAULT_EN
