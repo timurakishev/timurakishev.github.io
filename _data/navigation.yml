@@ -1,9 +1,9 @@
 main:
-  - title: "Bio"
+  - title: "[Bio]"
     url: /
-  - title: "Papers"
-    url: /publications/
-  - title: "Teaching"
+  - title: "[Papers]"
+    url: /papers/
+  - title: "[Teaching]"
     url: /teaching/
-  - title: "Blog"
+  - title: "[Blog]"
     url: /blog/
