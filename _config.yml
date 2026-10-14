@@ -61,7 +61,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar: "avatar.jpg"
+  name: "Timur Akishev"
+  avatar: "assets/images/avatar.jpg"
   bio: "Corpus linguist, professor"
   links:
     - label: "Google Scholar"
@@ -88,10 +89,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
