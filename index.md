@@ -2,7 +2,6 @@
 layout: single
 permalink: /
 author_profile: true
-classes: bio-page
 
 ---
 I'm an Assistant Professor in Linguistics at [KIMEP University](https://www.kimep.kz/college-humanities-education/en/) in Almaty, Kazakhstan. I hold a Ph.D. in Second Language Studies with an emphasis in Applied Linguistics from the [University of Mississippi](https://olemiss.edu/modernlanguages/).
