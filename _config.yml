@@ -107,7 +107,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Footer settings
-footer:
-  links: []
+  
+  # Hide RSS Feed link
+atom_feed:
+  hide: true
