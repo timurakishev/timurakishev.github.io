@@ -62,7 +62,7 @@ plugins:
 
 author:
   name: "Timur Akishev"
-  avatar: ""
+  avatar: "avatar"
   bio: "Corpus linguist, professor"
   links:
     - label: "Google Scholar"
