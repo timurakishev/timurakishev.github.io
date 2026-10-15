@@ -20,8 +20,8 @@ I currently teach the following linguistics courses at [KIMEP University](https:
 ### [tools & software]
 I use a variety of linguistic software and computational tools in my teaching and research.
 
-- 📚 **Corpus linguistics & NLP:** [#LancsBox X](https://lancsbox.lancs.ac.uk/), [AntConc](https://www.laurenceanthony.net/software/antconc/), and custom Python scripts for basic natural language processing and corpus compilation/analysis.
-- 👂 **Phonetics:** [Praat](https://praat.org/) for acoustic speech analysis and [R](https://www.r-project.org/) for data visualization.
+- 📚 **Corpus linguistics & NLP:** [#LancsBox X](https://lancsbox.lancs.ac.uk/), [AntConc](https://www.laurenceanthony.net/software/antconc/), and custom Python scripts in [Google Colab](https://colab.research.google.com/) for basic natural language processing and corpus compilation/analysis.
+- 👂 **Phonetics:** [Praat](https://praat.org/) for acoustic speech analysis and [RStudio](https://posit.co/downloads) for data visualization.
 - 🌳 **Syntax:** Online syntax tree generators and LaTeX ([Overleaf](https://www.overleaf.com/)) for constructing and visualizing syntactic structures.
 
 ### [in development]
