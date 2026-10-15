@@ -43,7 +43,7 @@ I've developed several small applications and games for my Phonetics and Phonolo
 **VowelPaws** and **ConsoPaws** are two small games I've developed to help students practice identifying English vowels and consonants.
 
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 16px;">
-  <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
-  <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
+  <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="width: 100%; aspect-ratio: 16/10; object-fit: contain; background: #222; border-radius: 6px;">
+  <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="width: 100%; aspect-ratio: 16/10; object-fit: contain; background: #222; border-radius: 6px;">
 </div>
 *VowelPaws* (left) and *ConsoPaws* (right). (February 2026)
