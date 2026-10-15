@@ -26,5 +26,6 @@ I use a variety of linguistic software and computational tools in my teaching an
 
 ### [in development]
 **Syntax Tree Builder**: I'm currently developing my own application for constructing syntax trees. While existing tools such as [TreeForm](https://sourceforge.net/projects/treeform/) are useful, many have outdated interfaces and limited flexibility. My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis. A preview of the current interface is shown below.
+
 ![Syntax Tree Builder interface](/assets/images/treebuilder.png)
-*Syntax Tree Builder — work in progress.*
+*Syntax Tree Builder — work in progress.* (October 2026)
