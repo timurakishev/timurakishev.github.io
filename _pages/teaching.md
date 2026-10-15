@@ -35,6 +35,7 @@ I've developed several small applications and games for my Phonetics and Phonolo
 
 #### 1. Guess the Accent 🌍
 **Guess the Accent** is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the [Speech Accent Archive](https://accent.gmu.edu/) at George Mason University, a great resource for exploring accent variation in English. My students really enjoyed playing it! The current version includes 15 questions, and I'm planning to add more recordings and give the interface a more modern look. For now, it's a work in progress, but I'm happy to share the 35 MB application for free, non-commercial educational use upon request. I may develop a licensed version in the future. The screenshot below shows the current version of the game.
+
 ![Guess the Accent — interface screenshot](/assets/images/guess-the-accent.png)
 *Guess the Accent — interface screenshot.* (February 2026)
 
@@ -45,4 +46,4 @@ I've developed several small applications and games for my Phonetics and Phonolo
   <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
   <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
 </div>
-*VowelPaws (left) and ConsoPaws (right).* (February 2026)
+*VowelPaws* (left) and *ConsoPaws* (right). (February 2026)
