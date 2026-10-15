@@ -42,8 +42,13 @@ I've developed several small applications and games for my Phonetics and Phonolo
 #### 2. VowelPaws & ConsoPaws 🐾
 **VowelPaws** and **ConsoPaws** are two small games I've developed to help students practice identifying English vowels and consonants.
 
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 16px;">
-  <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="width: 100%; aspect-ratio: 16/10; object-fit: contain; background: #222; border-radius: 6px;">
-  <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="width: 100%; aspect-ratio: 16/10; object-fit: contain; background: #222; border-radius: 6px;">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 16px; align-items: center;">
+  <div style="text-align: center;">
+    <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="height: 240px; width: auto; max-width: 100%; object-fit: contain; border-radius: 6px;">
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="height: 240px; width: auto; max-width: 100%; object-fit: contain; border-radius: 6px;">
+  </div>
 </div>
+
 *VowelPaws* (left) and *ConsoPaws* (right). (February 2026)
