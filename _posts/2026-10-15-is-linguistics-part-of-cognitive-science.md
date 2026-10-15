@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Is Linguistics Part of Cognitive Science?"
