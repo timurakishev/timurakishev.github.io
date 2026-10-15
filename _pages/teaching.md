@@ -24,8 +24,24 @@ I use a variety of linguistic software and computational tools in my teaching an
 - 👂 **Phonetics:** [Praat](https://praat.org/) for acoustic speech analysis and [RStudio](https://posit.co/downloads) for data visualization.
 - 🌳 **Syntax:** Online syntax tree generators and LaTeX ([Overleaf](https://www.overleaf.com/)) for constructing and visualizing syntactic structures.
 
-### [in development]
+### [apps in development]
 **Syntax Tree Builder**: I'm currently developing my own application for constructing syntax trees. While existing tools such as [TreeForm](https://sourceforge.net/projects/treeform/) are useful, many have outdated interfaces and limited flexibility. My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis. A preview of the current interface is shown below.
 
 ![Syntax Tree Builder interface](/assets/images/treebuilder.png)
 *Syntax Tree Builder — work in progress.* (October 2026)
+
+### [apps I've built]
+I've developed several small applications and games for my Phonetics and Phonology course to make linguistic analysis and practice more interactive.
+
+#### 1. Guess the Accent 🌍
+**Guess the Accent** is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the [Speech Accent Archive](https://accent.gmu.edu/) at George Mason University, a great resource for exploring accent variation in English. My students really enjoyed playing it! The current version includes 15 questions, and I'm planning to add more recordings and give the interface a more modern look. For now, it's a work in progress, but I'm happy to share the 35 MB application for free, non-commercial educational use upon request. I may develop a licensed version in the future.
+![Guess the Accent — game screenshot](/assets/images/guess-the-accent.png)
+
+#### 2. VowelPaws & ConsoPaws 🐾
+**VowelPaws** and **ConsoPaws** are two small games I've developed to help students practice identifying English vowels and consonants.
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 16px;">
+  <img src="/assets/images/vowelpaws.png" alt="VowelPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
+  <img src="/assets/images/consopaws.png" alt="ConsoPaws game screenshot" style="width: 100%; height: auto; border-radius: 6px;">
+</div>
+
