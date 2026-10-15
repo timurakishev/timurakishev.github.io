@@ -25,4 +25,6 @@ I use a variety of linguistic software and computational tools in my teaching an
 - 🌳 **Syntax:** Online syntax tree generators and LaTeX ([Overleaf](https://www.overleaf.com/)) for constructing and visualizing syntactic structures.
 
 ### [in development]
-**Syntax Tree Builder**: I'm currently developing my own application for constructing syntax trees. While existing tools such as [TreeForm](https://sourceforge.net/projects/treeform/) are useful, many have outdated interfaces and limited flexibility. My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis.
+**Syntax Tree Builder**: I'm currently developing my own application for constructing syntax trees. While existing tools such as [TreeForm](https://sourceforge.net/projects/treeform/) are useful, many have outdated interfaces and limited flexibility. My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis. A preview of the current interface is shown below.
+![Syntax Tree Builder interface](/assets/images/treebuilder.png)
+*Syntax Tree Builder — work in progress.*
