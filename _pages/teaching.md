@@ -27,7 +27,7 @@ I use a variety of linguistic software and computational tools in my teaching an
 ### [apps in development]
 **Syntax Tree Builder**: I'm currently developing my own application for constructing syntax trees. While existing tools such as [TreeForm](https://sourceforge.net/projects/treeform/) are useful, many have outdated interfaces and limited flexibility. My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis. A preview of the current interface is shown below.
 
-![Syntax Tree Builder interface](/assets/images/treebuilder.png)
+<img src="/assets/images/treebuilder.png" alt="Syntax Tree Builder interface" style="max-width: 100%; height: auto; border-radius: 6px;">
 *Syntax Tree Builder — work in progress.* (October 2026)
 
 ### [apps I've already built]
@@ -36,7 +36,7 @@ I've developed several small applications and games for my Phonetics and Phonolo
 #### 1. Guess the Accent 🌍
 **Guess the Accent** is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the [Speech Accent Archive](https://accent.gmu.edu/) at George Mason University, a great resource for exploring accent variation in English. My students really enjoyed playing it! The current version includes 15 questions, and I'm planning to add more recordings and give the interface a more modern look. For now, it's a work in progress, but I'm happy to share the 35 MB application for free, non-commercial educational use upon request. I may develop a licensed version in the future. The screenshot below shows the current version of the game.
 
-![Guess the Accent — interface screenshot](/assets/images/guess-the-accent.png)
+<img src="/assets/images/guess-the-accent.png" alt="Guess the Accent interface screenshot" style="max-width: 100%; height: auto; border-radius: 6px;">
 *Guess the Accent — interface screenshot.* (February 2026)
 
 #### 2. VowelPaws & ConsoPaws 🐾
