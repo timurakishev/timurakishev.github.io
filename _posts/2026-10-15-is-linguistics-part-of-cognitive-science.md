@@ -4,7 +4,6 @@ title: "Is Linguistics Part of Cognitive Science?"
 date: 2026-10-15
 author_profile: true
 ---
-
 Some of my students think I'm a Translation Studies professor. Others don't seem to realize that linguistics is part of cognitive science. Both make me wonder what students actually think linguistics is.
 
 In my Corpus Linguistics course, I teach students to build and analyze corpora using different software tools and Python libraries. A lot of this work involves NLP, especially in contemporary corpus linguistics. But linguistics isn't just about computational tools, either. It's also about understanding how language works, from speech sounds and syntactic structures to meaning and language use.
