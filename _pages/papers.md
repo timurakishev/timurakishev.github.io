@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-My published papers and ongoing research projects.
+My published papers and ongoing research projects
 
 ### [recent publications]
 
