@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching materials, course resources, and other useful things from my classes.
+Teaching materials, course resources, apps, and other useful things from my classes
 
 I currently teach the following linguistics courses at KIMEP University in Almaty, Kazakhstan.
 
