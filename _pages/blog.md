@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: true
 ---
 
-Occasional thoughts on linguistics, research, teaching, and things I find interesting.
+Occasional thoughts on linguistics, research, teaching, and things I find interesting
 
 {% assign sorted_posts = site.posts | sort: "date" | reverse %}
 {% for post in sorted_posts %}
