@@ -5,5 +5,7 @@ main:
     url: /papers/
   - title: "[Teaching]"
     url: /teaching/
+  - title: "[Gallery]"
+    url: /gallery/
   - title: "[Blog]"
     url: /blog/
