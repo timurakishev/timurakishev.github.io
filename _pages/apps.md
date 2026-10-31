@@ -61,7 +61,7 @@ Apps I’ve built (or am currently building) for my courses to help students dis
 
   <div class="app-card">
     <div class="app-media">
-      <img src="/assets/images/apps/gta_icon.png" alt="Guess the Accent logo or screenshot">
+      <img src="/assets/images/gta_icon.png" alt="Guess the Accent logo or screenshot">
     </div>
     <div class="app-content">
       <h3>[1] Guess the Accent (completed)</h3>
