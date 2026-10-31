@@ -17,11 +17,11 @@ Apps I’ve built (or am currently building) for my courses to help students dis
 
 .app-card {
   display: grid;
-  grid-template-columns: 120px 1fr;
+  grid-template-columns: 80px minmax(0, 1fr);
   gap: 18px;
   align-items: start;
   padding: 16px;
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.05);
   border-radius: 8px;
 }
 
@@ -61,7 +61,7 @@ Apps I’ve built (or am currently building) for my courses to help students dis
 
   <div class="app-card">
     <div class="app-media">
-      <img src="/assets/images/apps/guess-the-accent.png" alt="Guess the Accent logo or screenshot">
+      <img src="/assets/images/apps/gta_icon.png" alt="Guess the Accent logo or screenshot">
     </div>
     <div class="app-content">
       <h3>[1] Guess the Accent (completed)</h3>
@@ -73,7 +73,7 @@ Apps I’ve built (or am currently building) for my courses to help students dis
 
   <div class="app-card">
     <div class="app-media">
-      <img src="/assets/images/apps/treebuilder.png" alt="Syntax Tree Builder logo or screenshot">
+      <img src="/assets/images/stb_icon.png" alt="Syntax Tree Builder logo or screenshot">
     </div>
     <div class="app-content">
       <h3>[2] Syntax Tree Builder (in development)</h3>
