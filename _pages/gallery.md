@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "[Gallery]"
-permalink: /gallery/
+title: "[Apps]"
+permalink: /apps/
 author_profile: true
 ---
 
-A few snapshots from my life, along with some linguistics memes I've created for my courses
-
+Apps I’ve built for my courses to help students explore and learn linguistics.
 Oops! This page is currently under construction. Sorry.
