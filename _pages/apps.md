@@ -5,7 +5,7 @@ permalink: /apps/
 author_profile: true
 ---
 
-Apps I’ve built (or am currently building) for my courses to help students explore and learn linguistics.
+Apps I’ve built (or am currently building) for my courses to help students discover and apply linguistics.
 
 #### [1] Guess the Accent (completed)
 **Guess the Accent** is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the [Speech Accent Archive](https://accent.gmu.edu/) (George Mason University), a great resource for exploring accent variation in English. Click the following link to open and play the game: <https://timurakishev.github.io/guess-the-accent/>
