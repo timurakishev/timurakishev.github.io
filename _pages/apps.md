@@ -65,18 +65,16 @@ Apps I’ve built (or am currently building) for my courses to help students dis
     </div>
     <div class="app-content">
       <h3>[1] Guess the Accent (completed)</h3>
-      <p><strong>Guess the Accent</strong> is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the <a href="https://accent.gmu.edu/">Speech Accent Archive</a> (George Mason University), a great resource for exploring accent variation in English. Click the following link to open and play the game:<br>
-      <a href="https://timurakishev.github.io/guess-the-accent/" target="_blank" rel="noopener noreferrer">https://timurakishev.github.io/guess-the-accent/</a></p>
+      <p><strong>Guess the Accent</strong> is a listening game in which students hear recordings of speakers reading the same English passage and try to identify their accents. The recordings and reading passage come from the <a href="https://accent.gmu.edu/">Speech Accent Archive</a> (George Mason University), a great resource for exploring accent variation in English. Click the following link to open and play the game: <a href="https://timurakishev.github.io/guess-the-accent/" target="_blank" rel="noopener noreferrer">https://timurakishev.github.io/guess-the-accent/</a></p>
     </div>
   </div>
 
   <div class="app-card">
     <div class="app-media">
-      <img src="/assets/images/stb_icon.png" alt="Syntax Tree Builder logo or screenshot">
+      <img src="/assets/images/stb_icon.png" alt="Syntax Tree Builder logo">
     </div>
     <div class="app-content">
       <h3>[2] Syntax Tree Builder (in development)</h3>
-      <p>I've developed a web-based application for constructing syntax trees. While existing tools such as <a href="https://sourceforge.net/projects/treeform/">TreeForm</a> are useful, many have outdated interfaces and limited flexibility. My goal is to provide a modern, intuitive tool for teaching and practicing syntactic analysis. You can open Syntax Tree Builder here:<br>
-      <a href="https://timurakishev.github.io/syntax-tree-builder-web/" target="_blank" rel="noopener noreferrer">https://timurakishev.github.io/syntax-tree-builder-web/</a></p>
+      <p>I've developed a web-based application for constructing syntax trees. While existing tools such as <a href="https://sourceforge.net/projects/treeform/">TreeForm</a> are useful, many have outdated interfaces and limited flexibility. My goal is to provide a modern, intuitive tool for teaching and practicing syntactic analysis. You can open Syntax Tree Builder here: <a href="https://timurakishev.github.io/syntax-tree-builder-web/" target="_blank" rel="noopener noreferrer">https://timurakishev.github.io/syntax-tree-builder-web/</a></p>
     </div>
   </div>
