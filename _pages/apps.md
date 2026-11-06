@@ -77,9 +77,7 @@ Apps I’ve built (or am currently building) for my courses to help students dis
     </div>
     <div class="app-content">
       <h3>[2] Syntax Tree Builder (in development)</h3>
-      <p>I’m currently developing my own web-based application for constructing syntax trees. While existing tools such as <a href="https://sourceforge.net/projects/treeform/">TreeForm</a> are useful, many have outdated interfaces and limited flexibility.</p>
-      <p>My goal is to create a more modern, intuitive tool for teaching and practicing syntactic analysis. You can access the preview via the following link: <strong>[I’ll add the URL later.]</strong></p>
-    </div>
+      <p>I've developed a web-based application for constructing syntax trees. While existing tools such as <a href="https://sourceforge.net/projects/treeform/">TreeForm</a> are useful, many have outdated interfaces and limited flexibility.</p>
+      <p>My goal is to provide a modern, intuitive tool for teaching and practicing syntactic analysis. You can open Syntax Tree Builder here: <a href="https://timurakishev.github.io/syntax-tree-builder-web/" target="_blank" rel="noopener noreferrer">https://timurakishev.github.io/syntax-tree-builder-web/</a></p>
   </div>
-
 </div>
